@@ -1,0 +1,11 @@
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/sub_project1/CMakeFiles/sublibrary_c.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/sub_project1/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/sub_project1/CMakeFiles/rebuild_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/sub_project2/CMakeFiles/sublibrary_cpp.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/sub_project2/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/sub_project2/CMakeFiles/rebuild_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/main/CMakeFiles/sub_main.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/main/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/build/main/CMakeFiles/rebuild_cache.dir

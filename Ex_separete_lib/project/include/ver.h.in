@@ -1,0 +1,7 @@
+#ifndef _VERSION_H_
+#define _VERSION_H_
+
+const char *g_version = "${cmake_example_2_VERSION}";
+
+#endif /*_VERSION_H_*/
+

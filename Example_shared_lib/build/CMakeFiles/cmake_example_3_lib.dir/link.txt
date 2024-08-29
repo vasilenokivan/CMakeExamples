@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libcmake_example_3_lib.so -o libcmake_example_3_lib.so CMakeFiles/cmake_example_3_lib.dir/lib_src/sLibrary.cpp.o 

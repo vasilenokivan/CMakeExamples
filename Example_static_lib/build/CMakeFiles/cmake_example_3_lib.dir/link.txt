@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcmake_example_3_lib.a CMakeFiles/cmake_example_3_lib.dir/lib_src/sLibrary.cpp.o
+/usr/bin/ranlib libcmake_example_3_lib.a

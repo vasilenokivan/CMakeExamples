@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcmake_example_4_static_lib.a CMakeFiles/cmake_example_4_static_lib.dir/src/sLibrary.cpp.o
+/usr/bin/ranlib libcmake_example_4_static_lib.a

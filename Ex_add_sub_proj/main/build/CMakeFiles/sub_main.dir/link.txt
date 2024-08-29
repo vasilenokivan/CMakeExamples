@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sub_main.dir/main.cpp.o -o sub_main  -lsub::lib_c -lsub::lib_cpp 

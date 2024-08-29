@@ -1,0 +1,4 @@
+/home/ivan/workspace/CMake/Example_3/build/CMakeFiles/cmake_example_3_lib.dir
+/home/ivan/workspace/CMake/Example_3/build/CMakeFiles/cmake_example_3.dir
+/home/ivan/workspace/CMake/Example_3/build/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/Example_3/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_example_4.dir/src/main.cpp.o -o cmake_example_4   -L/home/ivan/workspace/CMake/Ex_proj_two_lib/project/libs/static  -Wl,-rpath,/home/ivan/workspace/CMake/Ex_proj_two_lib/project/libs/static -lcmake_example_4_static_lib 

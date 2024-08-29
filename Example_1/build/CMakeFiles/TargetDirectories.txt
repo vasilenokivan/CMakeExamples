@@ -1,0 +1,3 @@
+/home/ivan/workspace/CMake/build/CMakeFiles/cmake_example_1.dir
+/home/ivan/workspace/CMake/build/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/build/CMakeFiles/rebuild_cache.dir

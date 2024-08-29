@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++1y -Wall -shared -Wl,-soname,libcmake_example_4_shared_lib.so -o libcmake_example_4_shared_lib.so CMakeFiles/cmake_example_4_shared_lib.dir/src/sLibrary.cpp.o 

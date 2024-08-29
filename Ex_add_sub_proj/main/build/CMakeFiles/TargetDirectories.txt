@@ -1,0 +1,3 @@
+/home/ivan/workspace/CMake/Ex_add_sub_proj/main/build/CMakeFiles/sub_main.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/main/build/CMakeFiles/edit_cache.dir
+/home/ivan/workspace/CMake/Ex_add_sub_proj/main/build/CMakeFiles/rebuild_cache.dir
